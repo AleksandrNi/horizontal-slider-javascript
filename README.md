@@ -1,4 +1,5 @@
 # horizontal-slider-javascript
+example: https://aleksandrni.github.io/horizontal-slider-javascript/
 native js
 horzontal slider.
 it shouldn't have container all slider width.
