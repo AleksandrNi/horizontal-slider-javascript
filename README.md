@@ -2,6 +2,7 @@
 example: 
 1. https://aleksandrni.github.io/horizontal-slider-javascript/
 2. https://codepen.io/aleksandrni/pen/ExYyRwe
+
 pure js
 on scroll horzontal slider.
 it shouldn't have container all slider width.
